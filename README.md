@@ -2,7 +2,7 @@
 git repo: https://github.com/bwest96/CEG4110_HW1.git
 ## Screen Shots
 <img src="https://github.com/bwest96/CEG4110_HW2/blob/master/Screenshots/SmartSelect_20181011-075821_My%20Application.jpg" align="left" width="250" height= "500" hspace="10" vspace="10"></a>
-<img src="https://github.com/bwest96/CEG4110_HW2/blob/master/Screenshots/SmartSelect_20181011-075859_My%20Application.jpg" align="left" width="250" height= "500" hspace="10" vspace="10"></a>
+<img src="https://github.com/bwest96/CEG4110_HW2/blob/master/Screenshots/SmartSelect_20181011-075859_My%20Application.jpg" align="left" width="500" height= "400" hspace="10" vspace="10"></a>
 
 
 ## Usage
